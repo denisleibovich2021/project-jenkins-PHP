@@ -23,8 +23,8 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>hellooo Denisssssss!</h1>
-        <img scr="keshet.jpg">
+        <h1> lllllllllllllllllllllllllllllllllllllll!</h1>
+
         <p>yourrrrr thee bestttt<em>PHP</em> application is now running on your own dedicated environment in the 
     </section>
  
