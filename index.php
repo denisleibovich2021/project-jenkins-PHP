@@ -24,9 +24,10 @@ else
 <body>
     <section class="congratulations">
         <h1>hellooo Denisssssss!</h1>
+        <img scr="keshet.jpg">
         <p>yourrrrr thee bestttt<em>PHP</em> application is now running on your own dedicated environment in the 
     </section>
-        <img scr="keshet.jpg">
+ 
     <section class="instructions">
         <h2>What's Next?</h2>
         <ul>
