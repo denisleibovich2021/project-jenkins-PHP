@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1> lllllllllllllllllllllllllllllllllllllll!</h1>
-
+ <img src="keshet.jpg"> 
         <p>yourrrrr thee bestttt<em>PHP</em> application is now running on your own dedicated environment in the 
     </section>
  
